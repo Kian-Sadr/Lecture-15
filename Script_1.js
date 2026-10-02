@@ -49,3 +49,11 @@ function removeColor(){
     }
     
 }
+
+
+// example object
+color_sample = {
+    rgb: "rgb(245, 164, 216)",
+    hex: hexc("rgb(245, 164, 216)"),
+    list_sample: [1, 4, 3, "apple"]
+};
